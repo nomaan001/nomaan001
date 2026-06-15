@@ -18,7 +18,7 @@
 🚀 Currently Learning
 - Python
 - Data Analytics
-- Machine Learning## Hi there 👋
+- Machine Learning
 
 <!--
 **nomaan001/nomaan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
