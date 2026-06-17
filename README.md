@@ -1,11 +1,14 @@
-# 💫 About Me:
-Hi, I'm Mohammad Noman 👋
-
 🎓 Computer Science Student
-🐍 Learning Python, Data Analytics, Power BI, and AI/ML
-📊 Interested in Data Analytics and Machine Learning
-🚀 Building projects and improving my skills every day
-Computer Science Student | Aspiring Data Analyst & AI/ML Enthusiast<br><br>Learning Python, Data Analytics, Power BI and Machine Learning.<br>Building projects and continuously improving my skills.
+
+💡 Interested in Data Analytics, AI and Machine Learning
+
+📚 Currently Learning:
+• Python
+• Power BI
+• Data Analytics
+• Machine Learning
+
+🚀 Building projects and continuously improving my skills
 
 
 ## 🌐 Socials:
